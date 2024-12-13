@@ -2,7 +2,6 @@ function copyToClipboard(idTextArea) {
     var textArea = document.getElementById("form:" + idTextArea);
     textArea.select();
     document.execCommand('copy');
-    // return false;
 }
 
 /* Effacer la dernière question et la dernière réponse */
