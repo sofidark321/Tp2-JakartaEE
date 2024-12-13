@@ -1,4 +1,4 @@
-package ma.emsi.jouida.tp2jouidasoufiane;
+package ma.emsi.jouida.tp2jouidasoufiane.jsf;
 
 import java.io.*;
 
